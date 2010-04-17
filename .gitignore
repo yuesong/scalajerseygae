@@ -1,0 +1,6 @@
+# Ignore maven target directory
+target
+
+# Ignore all files starting with . (.project, .classpath etc.) except for .gitignore
+.*
+!.gitignore
